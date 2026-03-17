@@ -13,7 +13,9 @@ Identify key segments contributing to business growth
 🛠️ Tools & Technologies
 
 Power BI
+
 SQL (data extraction & transformation)
+
 Excel (data preprocessing)
 
 📊 Key Features
