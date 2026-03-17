@@ -33,7 +33,14 @@ Revenue shows significant growth in later months
 
 📷 Dashboard Preview
 
-<img width="1551"<img width="1558" height="861" alt="Screenshot 2026-03-18 010521" src="https://github.com/user-attachments/assets/40e275c4-e747-4b43-89c0-ee579f0cc06c" />
-<img width="1556" height="851" alt="Screenshot 2026-03-18 010537" src="https://github.com/user-attachments/assets/6df30fc0-47f3-47be-9b3b-d032386cb1fb" />
-<img width="1541" height="853" alt="Screenshot 2026-03-18 010552" src="https://github.com/user-attachments/assets/ea1f9784-16de-4844-a8eb-6ce14ab3f60c" />
- height="861" alt="Screenshot 2026-03-18 010456" src="https://github.com/user-attachments/assets/2bda1f65-cae0-4f72-84b6-0ba65b8a3bfb" />
+<img width="1551" height="861" alt="Screenshot 2026-03-18 010456" src="https://github.com/user-attachments/assets/fa54ce95-28bb-4c72-ba5c-6dea1082eb7b" />
+<img width="1558" height="861" alt="Screenshot 2026-03-18 010521" src="https://github.com/user-attachments/assets/fc945402-5147-446e-ae40-5312c8e3fa33" />
+<img width="1556" height="851" alt="Screenshot 2026-03-18 010537" src="https://github.com/user-attachments/assets/d089073e-2247-4d04-8caa-e686754de2e5" />
+<img width="1541" height="853" alt="Screenshot 2026-03-18 010552" src="https://github.com/user-attachments/assets/e8af7958-08d4-4049-ad99-743fe88a0a8f" />
+
+
+ 📬 Contact
+Created by [Amruta Deshmukh]
+🔗 LinkedIn: (https://www.linkedin.com/in/amruta-deshmukh-82366a1b1/)
+
+⭐ If you like this project, feel free to star the repo and share your feedback!
