@@ -21,16 +21,23 @@ Excel (data preprocessing)
 📊 Key Features
 
 KPI cards for Opportunity Count, Revenue, Avg Opportunity Days
+
 Region-wise and partner-wise analysis
+
 Sales stage funnel & probability distribution
+
 Monthly trends for opportunities and revenue
+
 Interactive filters (Partner Driven, Month, Region)
 
 📈 Key Insights
 
 Majority of opportunities are concentrated in East region
+
 Partner-driven deals contribute higher revenue compared to direct deals
+
 Lead stage has the highest volume, indicating strong pipeline inflow
+
 Revenue shows significant growth in later months
 
 📷 Dashboard Preview
