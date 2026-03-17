@@ -11,6 +11,7 @@ Evaluate partner-driven vs non-partner-driven performance
 Identify key segments contributing to business growth
 
 **🛠️ Tools & Technologies**
+
 Power BI
 
 SQL (data extraction & transformation)
@@ -18,6 +19,7 @@ SQL (data extraction & transformation)
 Excel (data preprocessing)
 
 **📊 Key Features**
+
 KPI cards for Opportunity Count, Revenue, Avg Opportunity Days
 
 Region-wise and partner-wise analysis
@@ -29,6 +31,7 @@ Monthly trends for opportunities and revenue
 Interactive filters (Partner Driven, Month, Region)
 
 **📈 Key Insights**
+
 Majority of opportunities are concentrated in East region
 
 Partner-driven deals contribute higher revenue compared to direct deals
